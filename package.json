@@ -1,0 +1,18 @@
+{
+  "name": "imagemagick-poc",
+  "version": "1.0.0",
+  "description": "poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "imagemagick"
+  ],
+  "author": "Bhuvanesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "imagemagick": "^0.1.3"
+  }
+}
