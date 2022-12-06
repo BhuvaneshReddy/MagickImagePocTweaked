@@ -12,7 +12,7 @@
   "author": "Bhuvanesh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3",
+    "express": "^4.18.2",
     "imagemagick": "^0.1.3"
   }
 }
